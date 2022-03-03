@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Patka5495
 - 👀 I’m interested in video and video
-- 🌱 I’m currently learning html/css/javascript
+- 🌱 I’m currently learning html/css/javascript/unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
