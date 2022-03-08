@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and video design
 - 🌱 I’m currently learning html/css/javascript/unity
 - 👐 I wish to find my way in 2022
-- 📫 How to reach me ...
+- 📫 The way to connect to me : djsl5495@gmail.com
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPatka5495&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
